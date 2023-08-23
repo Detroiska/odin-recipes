@@ -1,0 +1,16 @@
+h1, h2 {
+    font-family: "Courier New", monospace;
+    background-color: black;
+    color: white;
+}
+
+.recipe-page-li li {
+    background-color: black;
+    color: yellow;
+}
+
+#recipe-list {
+    font-size: 18px;
+    text-align: center;
+    color: blue;
+}
